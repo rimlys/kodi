@@ -9,6 +9,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">Rimlys</summary>
     <description lang="en">rimlysbuild</description>
+    <website>http://rimlys.web44.net</website>
     <platform>all</platform>
   </extension>
 </addon>
